@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm David Pierce 👋 he/him
+
+I'm a grad student software dev 🔥💻🔥
+
+Started a career change years back, life happened, and am still working on it!
+
+I love to draw ✏ and paint 🎨 when I'm not coding, and I play old video games 🎮.
 
 <!--
 **dapierce/dapierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
