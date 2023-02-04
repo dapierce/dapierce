@@ -1,6 +1,6 @@
 ### I'm David Pierce 👋 he/him
 
-I'm a grad student software dev 🔥💻🔥
+I toy with code 🔥💻🔥
 
 Started a career change years back, life happened, and am still working on it!
 
