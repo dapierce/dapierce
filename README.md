@@ -1,10 +1,13 @@
-### I'm David Pierce 👋 he/him
+# I'm David Pierce 👋 he/him
 
-I toy with code 🔥💻🔥
+- I toy with code 🔥💻🔥
+- love to draw ✏ and paint 🎨
+- play old video games 🎮
 
-Started a career change years back, life happened, and am still working on it!
+Sometimes I write stuff at [davidaaronpierce.com](https://davidaaronpierce.com/)
 
-I love to draw ✏ and paint 🎨 when I'm not coding, and I play old video games 🎮.
+And sometimes I post on [mastodon](https://mastodon.social/@dapierce)
+
 
 <!--
 **dapierce/dapierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
