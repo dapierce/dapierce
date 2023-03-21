@@ -8,8 +8,6 @@ Sometimes I write stuff at [davidaaronpierce.com](https://davidaaronpierce.com/)
 
 And sometimes I post on [mastodon](https://mastodon.social/@dapierce)
 
-<link rel="me" href="https://mastodon.social/@dapierce">
-
 <!--
 **dapierce/dapierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
