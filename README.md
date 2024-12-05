@@ -6,7 +6,7 @@
 
 Sometimes I write stuff at [davidaaronpierce.com](https://davidaaronpierce.com/)
 
-And sometimes I post on [mastodon](https://mastodon.social/@dapierce)
+And sometimes I post on [bluesky](https://bsky.app/profile/dapierce.bsky.social) or [mastodon](https://mastodon.social/@dapierce)
 
 <!--
 **dapierce/dapierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
